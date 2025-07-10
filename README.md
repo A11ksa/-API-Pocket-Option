@@ -231,7 +231,7 @@ Please open an issue or a PR, and follow the code style of the project.
 This project is licensed under the MIT License. See LICENSE for details.
 
 📬 Contact
-Author: Ahmed Althuwaini
+Author: Ahmed
 
 Email: ar123ksa@gmail.com
 
