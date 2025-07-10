@@ -1,13 +1,17 @@
 # Pocket Option API v2 – Python Async WebSocket Client
 
-<p align="center">
-  <img src="https://img.icons8.com/color/96/pocket-option.png" width="80" alt="Pocket Option logo" />
-  <br/>
-  <a href="https://pypi.org/project/api-pocket-option/"><img src="https://img.shields.io/pypi/v/api-pocket-option" alt="PyPI version" /></a>
-  <a href="https://pypi.org/project/api-pocket-option/"><img src="https://img.shields.io/pypi/pyversions/api-pocket-option?label=python" alt="Python versions" /></a>
-  <a href="https://github.com/A11ksa/-API-Pocket-Option/blob/main/LICENSE"><img src="https://img.shields.io/github/license/A11ksa/-API-Pocket-Option" alt="License" /></a>
-  <img src="https://img.shields.io/badge/status-stable-success" alt="Status: Stable" />
-</p>
+<div align="center">
+  <img src="https://img.icons8.com/color/96/pocket-option.png" width="80" />
+  <h1>Pocket Option API v2 – Python Async WebSocket Client</h1>
+  <p>
+    <b>⚡ Professional, fully asynchronous trading API for Pocket Option broker ⚡</b><br>
+    <img src="https://img.shields.io/pypi/pyversions/pandas?label=python&logo=python" />
+    <img src="https://img.shields.io/github/license/A11ksa/-API-Pocket-Option?style=flat-square" />
+    <img src="https://img.shields.io/badge/async-supported-brightgreen?logo=python"/>
+    <img src="https://img.shields.io/badge/recaptcha-auto-blue"/>
+    <img src="https://img.shields.io/badge/status-stable-success?logo=github"/>
+  </p>
+</div>
 
 ---
 
