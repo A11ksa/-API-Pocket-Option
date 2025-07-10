@@ -1,4 +1,4 @@
-setup_content = """
+
 # 🛠️ Setup & Installation Guide
 
 This document outlines the steps to set up the **Pocket Option API** project for professional interaction with Pocket Option's WebSocket API.
