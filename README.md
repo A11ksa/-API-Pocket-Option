@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Pocket Option API v2 – Python Async WebSocket Client</h1>
+  <h1>API Pocket Option v2 – Python Async WebSocket Client</h1>
   <p>
     <b>⚡ Professional, fully asynchronous trading API for Pocket Option broker ⚡</b><br>
     <img src="https://img.shields.io/pypi/pyversions/pandas?label=python&logo=python" />
