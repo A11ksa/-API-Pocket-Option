@@ -1,7 +1,4 @@
-# Pocket Option API v2 – Python Async WebSocket Client
-
 <div align="center">
-  <img src="https://img.icons8.com/color/96/pocket-option.png" width="80" />
   <h1>Pocket Option API v2 – Python Async WebSocket Client</h1>
   <p>
     <b>⚡ Professional, fully asynchronous trading API for Pocket Option broker ⚡</b><br>
